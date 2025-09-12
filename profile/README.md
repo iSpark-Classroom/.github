@@ -26,7 +26,8 @@ This organization is the central hub for **iSpark Classroom projects**. It is or
 This org doubles as both a **learning archive** and a **portfolio space** for our trainees.
 
 ------------------------------
-<img width="1536" height="1024" alt="yes" src="https://github.com/user-attachments/assets/b6df287f-8938-47b7-890b-bbafa2b51307" />
+<img width="1536" height="1024" alt="20250912_0140_Collaborative Software Session_remix_01k4xnq4dmfj1t0zcbmrz8ejkm" src="https://github.com/user-attachments/assets/895d11d5-4f20-4d69-9721-7d0223ac8645" />
+
 
 --------------------------
 ## 🔑 Mission & Vision
