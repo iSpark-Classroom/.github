@@ -54,4 +54,4 @@ At iSpark Classroom, our mission is to bridge the gap between academic knowledge
 Our learners don’t just study—they **build**. Here are some highlights: 
 - [C-Flicks](https://c-flicks-46qc.onrender.com/): A mini netflix
 
-➡️ Want your project featured? Open a PR to this repo and add your project!
+➡️ Want your project featured? Open a PR to [this repo](https://github.com/iSpark-Classroom/portfolio-wall) and add your project!
