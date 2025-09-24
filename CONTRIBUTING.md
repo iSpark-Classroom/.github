@@ -1,3 +1,3 @@
 ### Contributing
 
-To contribute to this org, the followinng standards must be followed:
+To contribute to this org, the following standards must be followed:
