@@ -16,4 +16,5 @@ We encourage curiosity, patience, and support for all learners.
 
 ## Reporting
 If you see or experience misconduct, please email: classroom@isparkinno.com 
+
 Our moderators will address it quickly and fairly.
