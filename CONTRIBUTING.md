@@ -2,6 +2,39 @@
 
 Thank you for your interest in contributing to this project. This document outlines the standards and workflows expected from all contributors.
 
+## Table of Contents
+
+- [Contributing Guidelines](#contributing-guidelines)
+  - [Table of Contents](#table-of-contents)
+  - [Understanding Git and GitHub Workflows](#understanding-git-and-github-workflows)
+  - [1. Git Workflow (Local Development)](#1-git-workflow-local-development)
+    - [Basic Git Process](#basic-git-process)
+    - [Important Git Commands](#important-git-commands)
+    - [Git Workflow Best Practices](#git-workflow-best-practices)
+  - [2. GitHub Workflow (Collaboration)](#2-github-workflow-collaboration)
+    - [GitHub Collaboration Process](#github-collaboration-process)
+    - [GitHub Workflow Best Practices](#github-workflow-best-practices)
+    - [Understanding CI/CD Automation](#understanding-cicd-automation)
+  - [Branch Naming Conventions](#branch-naming-conventions)
+  - [Commit Message Guidelines](#commit-message-guidelines)
+    - [Format](#format)
+    - [Types](#types)
+    - [Examples](#examples)
+    - [Best Practices](#best-practices)
+  - [Writing Good READMEs](#writing-good-readmes)
+    - [Essential Sections](#essential-sections)
+    - [Best Practices](#best-practices-1)
+    - [Example Structure](#example-structure)
+  - [Pull Request Process](#pull-request-process)
+    - [Pull Request Template](#pull-request-template)
+    - [Pull Request Best Practices](#pull-request-best-practices)
+  - [Code Review Guidelines](#code-review-guidelines)
+  - [Additional Resources](#additional-resources)
+    - [Git and GitHub Learning](#git-and-github-learning)
+    - [Commit Message Standards](#commit-message-standards)
+    - [CI/CD](#cicd)
+  - [Questions or Issues?](#questions-or-issues)
+
 ## Understanding Git and GitHub Workflows
 
 As a trainee, you'll be working with two distinct workflows: the Git workflow for version control and the GitHub workflow for collaboration. Understanding both is essential for contributing effectively.
@@ -45,7 +78,7 @@ The Git workflow is how you manage code changes on your local machine. This is t
    ```bash
    git commit -m "feat: add user login functionality"
    ```
-   Use clear, descriptive commit messages following the guidelines below.
+   Use clear, descriptive commit messages following the [Commit Message Guidelines](#commit-message-guidelines).
 
 7. **Push to GitHub**
    ```bash
@@ -271,10 +304,10 @@ MIT
 
 Follow these steps when submitting a pull request:
 
-1. **Create a Branch**: Branch off from `main` using proper naming conventions
+1. **Create a Branch**: Branch off from `main` using proper [naming conventions](#branch-naming-conventions)
 2. **Make Changes**: Implement your feature or fix
 3. **Test Locally**: Ensure all tests pass and the code works as expected
-4. **Commit**: Use proper commit message format
+4. **Commit**: Use proper [commit message format](#commit-message-guidelines)
 5. **Push**: Push your branch to the repository
 6. **Open PR**: Create a pull request with a clear title and description
 
@@ -322,8 +355,26 @@ When receiving reviews:
 - Make requested changes or discuss alternatives
 - Thank reviewers for their time
 
+## Additional Resources
+
+### Git and GitHub Learning
+- [Official Git Documentation](https://git-scm.com/doc) - Comprehensive Git reference
+- [GitHub Docs](https://docs.github.com) - Complete guide to GitHub features
+
+
+### Commit Message Standards
+- [Conventional Commits](https://www.conventionalcommits.org/) - Standardized commit message format
+- [How to Write a Git Commit Message]([https://chris.beams.io/posts/git-commit](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)/) - Best practices guide
+
+
+### CI/CD
+- [GitHub Actions Documentation](https://docs.github.com/en/actions) - Automate workflows
+- [Introduction to CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd) - Understand the concepts
+
+
+
 ## Questions or Issues?
 
 If you have questions about these guidelines or need help with the contribution process, please open an issue or reach out to a maintainer.
 
-Thank you for contributing to this project.
+Thank you for contributing to this project!
