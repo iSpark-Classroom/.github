@@ -30,28 +30,29 @@ This org doubles as both a **learning archive** and a **portfolio space** for ou
 
 
 --------------------------
-## 🔑 Mission & Vision
+## Mission & Vision
 At iSpark Classroom, our mission is to bridge the gap between academic knowledge and industry practice. We believe African talent deserves world-class opportunities, and we’re building the ecosystem to make that possible.
 
 ### Programs We Offer
 - Software Engineering
-- Data Analysis
+- Data Analytics
 - Digital Literacy
-- Product Design
+- Creative Design
 - Mini Data & AI BootCamps
+- English as a Second Language
 
-## 🛠️ How It Works
+## How It Works
 - Learn – Hands-on projects, mentorship, and resources
 - Build – Real-world assignments & open-source contributions
 - Showcase – Students publish their projects here on GitHub
 - Launch – Graduates join our talent pool for internships & jobs
 
-#### 🧑🏾‍🤝‍🧑🏽 Join the Community
+#### Join the Community
 - Learners → apply for programs
 - Mentors → volunteer
 - Partners → collaborate/hire graduates
 
-## 💡 Student Project Showcase
+## Student Project Showcase
 Our learners don’t just study—they **build**. Find outstanding projects in [this repo.](https://github.com/iSpark-Classroom/portfolio-wall) 
 
 ➡️ Want your project featured? Open a PR to [this repo](https://github.com/iSpark-Classroom/portfolio-wall) and add your project!
